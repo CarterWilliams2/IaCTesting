@@ -10,7 +10,6 @@ from iac_testing_antipatterns import IaCTestingAntipatterns
 def main():
     
     
-    print("This is a change to run codacy")
     base_dir= input("Please enter the directory: ")
     print("\n")
     
